@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hi, I'm Vikas Kumar  <br>🚀 MERN Stack Enthusiast | 📚 DSA & CP Trainer | 🎯 Passionate Educator  <br><br>- 💻 I teach JavaScript, React, DSA, and MERN with real-world examples  <br>- 🧠 Love simplifying complex concepts for beginners  <br>- 🛠 Building small but impactful full-stack projects  <br>- 🎤 I enjoy creating fun, interactive coding sessions  <br>- 📈 Always learning, always improving  <br>
 
 
